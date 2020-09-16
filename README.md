@@ -1,2 +1,18 @@
-# gig-101-igg
+# gig-102-igg
 ## Shissanupong Prom-on
+***
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+- [ ] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
